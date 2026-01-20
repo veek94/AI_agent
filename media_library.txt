@@ -1,0 +1,25 @@
+=== MEDIA RESOURCE ===
+Type: Video
+Topic: Solar Installation Demo
+Description: A video showing how our team installs the 5kVA system. Use this when users ask to see an example of our work.
+Link: https://youtu.be/your-video-link-here
+
+=== MEDIA RESOURCE ===
+Type: Image
+Topic: Tubim Basic Photo
+Description: A high-quality photo of the Tubim Basic solar generator. Use this when users want to see what the product looks like.
+Link: https://raw.githubusercontent.com/veek94/AI_agent/main/Basic.jpg
+
+Type: Image
+Topic: Tubim Classic Photo
+Description:  A high-quality photo of the Tubim Basic solar generator.  Use this when users want to see what the product looks like.
+Link: Link: https://raw.githubusercontent.com/veek94/AI_agent/main/Classic.jpg
+
+
+
+Type: Image
+Topic: Tubim Pro Photo
+Description:  A high-quality photo of the Tubim Basic solar generator.  Use this when users want to see what the product looks like.
+Link: Link: https://raw.githubusercontent.com/veek94/AI_agent/main/Pro.jpg
+
+
